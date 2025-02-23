@@ -151,7 +151,7 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     private void navigateToUserHome() {
-        startActivity(new Intent(this, UserHomeActivity.class));
+        startActivity(new Intent(this, MainActivity.class));
         finish();
     }
 }

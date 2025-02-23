@@ -31,9 +31,6 @@
             android:name=".VendorProfileFragment"
             android:exported="false" />
         <activity
-            android:name=".UserHomeActivity"
-            android:exported="false" />
-        <activity
             android:name=".VendorHomeActivity"
             android:exported="false" />
         <activity
