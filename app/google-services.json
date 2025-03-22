@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726201750308",
+    "project_id": "quikvend-963cb",
+    "storage_bucket": "quikvend-963cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726201750308:android:3ca5f922759a65073d99b1",
+        "android_client_info": {
+          "package_name": "com.example.quikvend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726201750308-o45frj1unik36fm98lee6tfgkn6oid1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quikvend",
+            "certificate_hash": "79ca701666abeca5418c307ec36b9f474da70f02"
+          }
+        },
+        {
+          "client_id": "726201750308-ai5hkpolis1jabtkedh7n06on5qfirfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmiINCFy5JG6ogsua-8FCkiHXDNvEqnUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726201750308-ai5hkpolis1jabtkedh7n06on5qfirfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

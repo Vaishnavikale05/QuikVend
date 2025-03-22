@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <!-- Modern Gradient with Blended Colors -->
+            <gradient
+                android:angle="45"
+                android:startColor="#FFD600"
+                android:centerColor="#F2DE75"
+                android:endColor="#DEA021"
+                android:type="radial"
+                android:gradientRadius="600dp" />
+
+            <!-- Adding Rounded Corners for a Soft Look -->
+            <corners android:radius="20dp" />
+        </shape>
+    </item>
+</layer-list>
